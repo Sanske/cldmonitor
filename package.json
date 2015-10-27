@@ -1,6 +1,6 @@
 {
   "name": "cldmonitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WLAN Cloud-plat monitor module",
   "main": "monitor.js",
   "keywords": [
