@@ -1,0 +1,57 @@
+{
+  "name": "cldmonitor",
+  "version": "1.0.0",
+  "description": "WLAN Cloud-plat monitor module",
+  "main": "monitor.js",
+  "keywords": [
+    "monitor"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "sanske"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {
+    "node_ranaly":"0.1.1"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanske/monitor.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanske/monitor/issues"
+  },
+  "homepage": "https://github.com/Sanske/monitor#readme",
+  "gitHead": "2707e57fd27e0cba489e067f479f73b4695f3369",
+  "_id": "cldmonitor@1.0.0",
+  "_shasum": "8a9824febab6614abe7e7146e631189da5a51f9e",
+  "_from": "cldmonitor@*",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.6",
+  "_npmUser": {
+    "name": "sanske",
+    "email": "1509381010@qq.com"
+  },
+  "dist": {
+    "shasum": "8a9824febab6614abe7e7146e631189da5a51f9e",
+    "size": 3210,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cldmonitor/download/cldmonitor-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sanske",
+      "email": "1509381010@qq.com"
+    }
+  ],
+  "publish_time": 1445839896836,
+  "_cnpm_publish_time": 1445839896836,
+  "_resolved": "https://registry.npm.taobao.org/cldmonitor/download/cldmonitor-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
